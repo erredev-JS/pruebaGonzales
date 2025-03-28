@@ -1,1 +1,2 @@
-* EJEMPLO DE USO: node app.js -f=Verduleria
+* EJEMPLO DE USO:
+  node app.js -f=Verduleria
