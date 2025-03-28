@@ -7,7 +7,8 @@ const argv = yargs.option("file", {
     alias: "f",
     type: "string",
     description: "Nombre del archivo",
-    demandOption: true,
+    demandOption: false,
+    default: "productos"
 }).argv
 
 
